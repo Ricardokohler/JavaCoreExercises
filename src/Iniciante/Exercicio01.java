@@ -1,8 +1,8 @@
-package JavaCoreExercises;
+package JavaCoreExercises.src.Iniciante;
 
 import java.util.Scanner;
 
-public class Iniciante01 {
+public class Exercicio01 {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
