@@ -6,7 +6,11 @@ public class Exercicio04 {
     public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
-        System.out.println("-----------------------------------\n");
+        
+        System.out.print("+----------------------------------------------+\n");
+        System.out.print("| Programa para calculo de preco de duas pecas | \n");
+        System.out.print("+----------------------------------------------+\n\n");
+        
         System.out.print("Programa calculo de pagamento para funcionarios\n\nDigite o id do funcionario: ");
         int id = sc.nextInt();
         System.out.print("Valor por hora: ");
@@ -15,7 +19,7 @@ public class Exercicio04 {
         double hours = sc.nextDouble();
         
         double payment = value * hours;
-        System.out.print("Pagamento do funcionario: " + payment);
+        System.out.printf("Pagamento do funcionario: R$%.2f Reais", payment);
         
         
         

@@ -1,0 +1,5 @@
+1 - Exec diretamente diretorio Iniciante -----> java storage/documents/java-projects/java-core/JavaCoreExercises/src/Iniciante/Exercicio01.java
+2 - Exec diretamente diretorio Iniciante -----> java storage/documents/java-projects/java-core/JavaCoreExercises/src/Intermediario/Exercicio01.java
+3 - Exec diretamente diretorio Avancado ------>  java storage/documents/java-projects/java-core/JavaCoreExercises/src/Avancado/Exercicio01.java
+4 - Exec diretamente...
+5 - Note 5
