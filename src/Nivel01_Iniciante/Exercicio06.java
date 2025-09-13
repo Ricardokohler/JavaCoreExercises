@@ -1,4 +1,4 @@
-package Iniciante;
+package Nivel01_Iniciante;
 
 import java.util.Scanner;
 
