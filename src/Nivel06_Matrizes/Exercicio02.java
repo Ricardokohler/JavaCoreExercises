@@ -1,5 +1,5 @@
 package Nivel06_Matrizes;
 
-public class Exercicio01 {
+public class Exercicio02 {
 
 }
