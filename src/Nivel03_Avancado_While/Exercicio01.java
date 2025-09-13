@@ -1,4 +1,4 @@
-package Nivel03_Avancado.While;
+package Nivel03_Avancado_While;
 
 import java.util.Scanner;
 
