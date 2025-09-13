@@ -1,5 +1,5 @@
 package Nivel05_Arrays;
 
-public class Exercicio03 {
+public class Exercicio04 {
 
 }
