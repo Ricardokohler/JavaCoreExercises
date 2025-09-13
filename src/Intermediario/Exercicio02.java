@@ -11,7 +11,7 @@ public class Exercicio02{
         System.out.print("\n|-Calculo Confirmarcao de Par e impar-|");
         System.out.print("\n+-------------------------------------+");
         
-        System.out.print("\n\nDigite um numero: ")
+        System.out.print("\n\nDigite um numero: ");
         int i = sc.nextInt();
         
         if(i % 2 ==0){

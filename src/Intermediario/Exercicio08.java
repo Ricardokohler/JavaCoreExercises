@@ -1,4 +1,4 @@
-package Intermediario;
+
 
 import java.util.Scanner;
 
@@ -22,12 +22,6 @@ public class Exercicio08{
             double total = subtotal + 2000;
             System.out.print("Total: total");
             
-        } else if( a > 3000){
-            faixa2 = a - 3000;
-            faixa1 = faixa2-2000;
-            faixa2 +=  faixa2 * 0.18;
-        
-            faixa1 = 
         }
         
         System.out.print("\nObrigado!\n");
