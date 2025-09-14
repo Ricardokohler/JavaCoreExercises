@@ -6,10 +6,12 @@ import java.util.Scanner;
 
 public class Exercicio01 {
     public static void main(String[] args) {
-
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        System.out.print("+-----------------------------------------------+");
+        System.out.print("|------Programa para impressao de impares-------|");
+        System.out.print("+-----------------------------------------------+");
         System.out.print("\nQuantos numeros serão digitados? ");
 
         int n = sc.nextInt();
@@ -29,7 +31,7 @@ public class Exercicio01 {
             }
         }
 
-
+        System.out.print("\n\nObrigado\n");
 
         sc.close();
     }
