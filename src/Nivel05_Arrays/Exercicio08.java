@@ -8,8 +8,10 @@ public class Exercicio08 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-
-
+        System.out.print("\n+---------------------------------------+");
+        System.out.print("\n|------- Programa média de pares -------|");
+        System.out.print("\n+---------------------------------------+");
+        //caso nao haja pares, printar (NAO HA PARES)
         sc.close();
     }
 }

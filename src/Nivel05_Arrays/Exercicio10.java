@@ -8,7 +8,10 @@ public class Exercicio10 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-
+        System.out.print("\n+---------------------------------------+");
+        System.out.print("\n|-------- Programa aprovados -----------|");
+        System.out.print("\n+---------------------------------------+");
+        //
 
         sc.close();
     }

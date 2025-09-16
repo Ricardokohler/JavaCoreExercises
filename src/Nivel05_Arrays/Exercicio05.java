@@ -31,7 +31,7 @@ public class Exercicio05 {
         }
         System.out.print("\nMaior valor: " + count + "\nPosiçao: " + posit +"\n");
         
-        System.out.print("\nObrigado!\n")
+        System.out.print("\nObrigado!\n");
         
         sc.close();
     }
