@@ -5,6 +5,7 @@ Bem-vindo ao **JavaCoreExercises**! 🚀
 Este repositório reúne exercícios que resolvi para **praticar e consolidar meus conhecimentos em Java**. Eles abrangem conceitos fundamentais como entrada e saída de dados, operações matemáticas, estruturas básicas de programas e lógica de programação.  
 
 Todos os exercícios foram **inspirados no curso --Java COMPLETO Programação Orientada a Objetos-- do professor [Nélio Alves](https://github.com/acenelio)**, adaptados para estudo pessoal e prática.  
+
 Além de servirem como base de aprendizado, também podem ser utilizados como **portfólio** ou em **entrevistas técnicas** para demonstrar evolução de raciocínio e domínio da linguagem.
 
 ---
@@ -168,5 +169,6 @@ Além de servirem como base de aprendizado, também podem ser utilizados como **
 ### Exercício 02: Streams
 - **Descrição:** Processamento de listas usando Stream API (filtros, mapas e reduções).
 - **Arquivo:** [LambdaEx02.java](#)
+
 
 
