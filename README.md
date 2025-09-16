@@ -14,24 +14,24 @@ Além de servirem como base de aprendizado, também podem ser utilizados como **
 
 ### Exercício 01: Soma de Dois Números Inteiros
 - **Descrição:** Leia dois valores inteiros e mostre a soma desses números.
-- **Arquivo:** [uri1003.java](#)
+- **Arquivo:** [uri1003.java](https://github.com/Ricardokohler/JavaCoreExercises/blob/main/src/Nivel01_Iniciante/Sequencial/Exercicio01.java)
 
 ### Exercício 02: Área de um Círculo
 - **Descrição:** Leia o valor do raio de um círculo e calcule a área com quatro casas decimais.  
   Fórmula: `area = π * raio²` (π = 3.14159)
-- **Arquivo:** [uri1002.java](#)
+- **Arquivo:** [uri1002.java](https://github.com/Ricardokohler/JavaCoreExercises/blob/main/src/Nivel01_Iniciante/Sequencial/Exercicio02.java)
 
 ### Exercício 03: Diferença entre Produtos
 - **Descrição:** Leia quatro valores inteiros A, B, C e D e calcule `DIFERENCA = (A * B - C * D)`
-- **Arquivo:** [uri1007.java](#)
+- **Arquivo:** [uri1007.java](https://github.com/Ricardokohler/JavaCoreExercises/blob/main/src/Nivel01_Iniciante/Sequencial/Exercicio03.java)
 
 ### Exercício 04: Salário de Funcionário
 - **Descrição:** Leia o número de um funcionário, horas trabalhadas e valor por hora. Calcule o salário.
-- **Arquivo:** [uri1008.java](#)
+- **Arquivo:** [uri1008.java](https://github.com/Ricardokohler/JavaCoreExercises/blob/main/src/Nivel01_Iniciante/Sequencial/Exercicio04.java)
 
 ### Exercício 05: Valor a Pagar
 - **Descrição:** Leia código, quantidade e valor unitário de duas peças. Calcule o total.
-- **Arquivo:** [uri1010.java](#)
+- **Arquivo:** [uri1010.java](https://github.com/Ricardokohler/JavaCoreExercises/blob/main/src/Nivel01_Iniciante/Sequencial/Exercicio05.java)
 
 ### Exercício 06: Áreas Diversas
 - **Descrição:** Leia A, B, C e calcule:
@@ -40,7 +40,7 @@ Além de servirem como base de aprendizado, também podem ser utilizados como **
   - Trapézio (bases A e B, altura C)
   - Quadrado (lado B)
   - Retângulo (lados A e B)
-- **Arquivo:** [uri1012.java](#)
+- **Arquivo:** [uri1012.java](https://github.com/Ricardokohler/JavaCoreExercises/blob/main/src/Nivel01_Iniciante/Sequencial/Exercicio06.java)
 
 ---
 
@@ -187,6 +187,7 @@ Além de servirem como base de aprendizado, também podem ser utilizados como **
 ## 🔴 Avançado - 02 Lambda e Streams
 
 ### Em Breve
+
 
 
 
