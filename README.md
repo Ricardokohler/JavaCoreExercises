@@ -175,37 +175,18 @@ Além de servirem como base de aprendizado, também podem ser utilizados como **
 
 ## 🟣 Intermediário - 02 Matrizes
 
-### Exercício 01: Leitura e Impressão de Matrizes
-- **Descrição:** Ler uma matriz 2D e imprimir seus elementos linha por linha.
-- **Arquivo:** [MatrizEx01.java](#)
-
-### Exercício 02: Operações com Matrizes
-- **Descrição:** Somar, multiplicar ou calcular médias em matrizes 2D.
-- **Arquivo:** [MatrizEx02.java](#)
+### Em Breve
 
 ---
 
 ## 🔴 Avançado - 01 Leitura e Escrita de Arquivos
 
-### Exercício 01: Leitura de Arquivo
-- **Descrição:** Abrir e ler um arquivo de texto, mostrando seu conteúdo no console.
-- **Arquivo:** [LeituraArquivo01.java](#)
-
-### Exercício 02: Escrita de Arquivo
-- **Descrição:** Criar e escrever conteúdo em um arquivo de texto.
-- **Arquivo:** [EscritaArquivo02.java](#)
-
+### Em Breve
 ---
 
 ## 🔴 Avançado - 02 Lambda e Streams
 
-### Exercício 01: Operações com Lambda
-- **Descrição:** Utilizar expressões lambda para operações sobre coleções.
-- **Arquivo:** [LambdaEx01.java](#)
-
-### Exercício 02: Streams
-- **Descrição:** Processamento de listas usando Stream API (filtros, mapas e reduções).
-- **Arquivo:** [LambdaEx02.java](#)
+### Em Breve
 
 
 
