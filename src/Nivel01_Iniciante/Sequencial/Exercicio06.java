@@ -8,7 +8,7 @@ public class Exercicio06 {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("+----------------------------------------------+\n");
-        System.out.print("| Programa para area de poligonos---------------\n);                                                                                  | \n");
+        System.out.print("| Programa para area de poligonos---------------\n");                                                                               
         System.out.print("+----------------------------------------------+\n\n");
         
         System.out.print("Digite o valor de A: ");
