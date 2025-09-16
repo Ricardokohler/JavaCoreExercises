@@ -1,6 +1,6 @@
 # JavaCoreExercises
 
-Bem-vindo ao **JavaCoreExercises**! 🚀  
+Bem-vindo ao **JavaCoreExercises**! 
 
 Este repositório reúne exercícios que resolvi para **praticar e consolidar meus conhecimentos em Java**. Eles abrangem conceitos fundamentais como entrada e saída de dados, operações matemáticas, estruturas básicas de programas e lógica de programação.  
 
@@ -187,6 +187,7 @@ Além de servirem como base de aprendizado, também podem ser utilizados como **
 ## 🔴 Avançado - 02 Lambda e Streams
 
 ### Em Breve
+
 
 
 
