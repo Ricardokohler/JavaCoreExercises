@@ -126,13 +126,50 @@ Além de servirem como base de aprendizado, também podem ser utilizados como **
 
 ## 🟣 Intermediário - 01 Arrays
 
-### Exercício 01: Manipulação de Arrays
-- **Descrição:** Exercícios básicos de leitura, escrita e iteração de arrays unidimensionais.
-- **Arquivo:** [ArrayEx01.java](#)
+### Exercício 01: Números Negativos
+- **Descrição:** Faça um programa que leia N números inteiros e mostre apenas os números negativos.
+- **Arquivo:** [negativos.java](#)
 
-### Exercício 02: Operações com Arrays
-- **Descrição:** Somas, médias e contagens usando arrays.
-- **Arquivo:** [ArrayEx02.java](#)
+### Exercício 02: Soma de Vetor
+- **Descrição:** Ler N números reais, imprimir todos, mostrar soma e média dos elementos.
+- **Arquivo:** [soma_vetor.java](#)
+
+### Exercício 03: Alturas
+- **Descrição:** Ler nome, idade e altura de N pessoas. Mostrar altura média, porcentagem de pessoas com menos de 16 anos e nomes delas.
+- **Arquivo:** [alturas.java](#)
+
+### Exercício 04: Números Pares
+- **Descrição:** Ler N números inteiros, mostrar números pares e a quantidade deles.
+- **Arquivo:** [numeros_pares.java](#)
+
+### Exercício 05: Maior Valor e Posição
+- **Descrição:** Ler N números reais, mostrar o maior valor e a posição dele no vetor.
+- **Arquivo:** [maior_posicao.java](#)
+
+### Exercício 06: Soma de Vetores
+- **Descrição:** Ler dois vetores A e B, gerar vetor C com a soma correspondente de cada posição e imprimir C.
+- **Arquivo:** [soma_vetores.java](#)
+
+### Exercício 07: Abaixo da Média
+- **Descrição:** Ler N números reais, calcular média e mostrar elementos abaixo da média.
+- **Arquivo:** [abaixo_da_media.java](#)
+
+### Exercício 08: Média dos Pares
+- **Descrição:** Ler N números inteiros e mostrar a média apenas dos pares. Se nenhum par, mostrar “NENHUM NUMERO PAR”.
+- **Arquivo:** [media_pares.java](#)
+
+### Exercício 09: Mais Velho
+- **Descrição:** Ler nomes e idades de N pessoas e mostrar o nome da pessoa mais velha.
+- **Arquivo:** [mais_velho.java](#)
+
+### Exercício 10: Aprovados
+- **Descrição:** Ler nomes de alunos e notas do 1º e 2º semestre. Mostrar nomes dos aprovados (média ≥ 6.0).
+- **Arquivo:** [aprovados.java](#)
+
+### Exercício 11: Dados de Pessoas
+- **Descrição:** Ler altura e gênero de N pessoas. Mostrar maior e menor altura, média das mulheres e número de homens.
+- **Arquivo:** [dados_pessoas.java](#)
+
 
 ---
 
@@ -169,6 +206,7 @@ Além de servirem como base de aprendizado, também podem ser utilizados como **
 ### Exercício 02: Streams
 - **Descrição:** Processamento de listas usando Stream API (filtros, mapas e reduções).
 - **Arquivo:** [LambdaEx02.java](#)
+
 
 
 
