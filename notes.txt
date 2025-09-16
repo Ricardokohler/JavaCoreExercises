@@ -1,5 +1,5 @@
-1 - Exec diretamente diretorio Nivel01_Iniciante -----> java storage/documents/java-projects/java-core/JavaCoreExercises/src/Nivel01_Iniciante/Nivel03_Avancado_While.Exercicio01.java
-2 - Exec diretamente diretorio Nivel01_Iniciante -----> java storage/documents/java-projects/java-core/JavaCoreExercises/src/Intermediario/Nivel03_Avancado_While.Exercicio01.java
-3 - Exec diretamente diretorio Nivel03_Avancado_While ------>  java storage/documents/java-projects/java-core/JavaCoreExercises/src/Nivel03_Avancado_While/Nivel03_Avancado_While.Exercicio01.java
+1 - Exec diretamente diretorio Nivel01_Iniciante -----> java storage/documents/java-projects/java-core/JavaCoreExercises/src/Nivel01_Iniciante/Nivel01_Iniciante.Repetitivo.Exercicio01_While.java
+2 - Exec diretamente diretorio Nivel01_Iniciante -----> java storage/documents/java-projects/java-core/JavaCoreExercises/src/Intermediario/Nivel01_Iniciante.Repetitivo.Exercicio01_While.java
+3 - Exec diretamente diretorio Nivel03_Avancado_While ------>  java storage/documents/java-projects/java-core/JavaCoreExercises/src/Nivel03_Avancado_While/Nivel01_Iniciante.Repetitivo.Exercicio01_While.java
 4 - Exec diretamente...
 5 - Note 5
